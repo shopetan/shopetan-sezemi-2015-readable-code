@@ -17,7 +17,8 @@ $ オムライス
 
 ## 文字化けする場合
 
-nkfコマンド(参考URL:http://itpro.nikkeibp.co.jp/article/COLUMN/20060227/230849/)を使用し，
+nkfコマンド(参考URL:http://itpro.nikkeibp.co.jp/article/COLUMN/20060227/230849/)
+を使用し，
 
 $ nkf -w --overwrite no1.c
 
